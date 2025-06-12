@@ -1,2 +1,2 @@
-console.log("Conflict 2");
+console.log("feature 1");
 
